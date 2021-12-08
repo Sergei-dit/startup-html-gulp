@@ -1,0 +1,14 @@
+// GENERAL PROJECT STYLES
+
+body {
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
